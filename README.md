@@ -1,2 +1,2 @@
 # SqlQueries
-useful sql queries / consultas sql útiles
+useful sql queries for projects/ consultas sql útiles que ayudan en los proyectos.
